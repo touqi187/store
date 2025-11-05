@@ -25,7 +25,7 @@
 | luci-app-taskplan             | 任务计划 |                        |
 | luci-app-easytier             | 组网 | https://github.com/EasyTier/luci-app-easytier                       |
 | luci-app-unishare             | 统一文件共享 | webdav共享                      |
-| luci-app-uninstall             | 高级卸载0.9.7 | 用于彻底卸载插件                     |
+| luci-app-uninstall             | 高级卸载0.9.7 | [用于彻底卸载插件](https://xz.vumstar.com)                     |
 
 ## 如何集成到AutoBuildImmortalWrt
 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
